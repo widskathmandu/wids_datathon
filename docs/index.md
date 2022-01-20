@@ -15,15 +15,14 @@ In this **three-hour** hands-on workshop you will learn :
  
 ### Event Date and Time
 - Event : Virtual [via Zoom]
-- Date : Friday February 04, 2022 
-
-- Nepal Time : 8:00 - 11:00 AM NPT
+- Date : **Friday February 04, 2022** 
+- Nepal Time : **8:00 - 11:00 AM NPT**
 - US Time : 9:15 PM EST | 8:15 PM CST | 6:15 PM PST
 
 ## [Register here](https://docs.google.com/forms/d/e/1FAIpQLSfdCtIKwWxv93wPbhta_dlyyLKoTFLuShdkNJiLArXEzJvIBg/viewform)
-- The session is open to **all genders**. Join us   though if you have ittle or no prior experience on tackling real-world data science problems.
+- The session is open to **all genders**. Join us though you have ittle or no prior experience on tackling real-world data science problems.
 
-#### - Feel free to communicate with other participants and form a team to submit your solution to the WiDS data challenge in Kaggle. You can find a timeline to participate in global challenge [here](https://www.widsconference.org/datathon_details.html)
+#### You can find a timeline to participate in global challenge [here](https://www.widsconference.org/datathon_details.html)
 
 
 
