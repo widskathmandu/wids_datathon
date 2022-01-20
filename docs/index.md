@@ -20,7 +20,6 @@ In this **three-hour** hands-on workshop you will learn :
 - Nepal Time : 8:00 - 11:00 AM NPT
 - US Time : 9:15 PM EST | 8:15 PM CST | 6:15 PM PST
 
-<br>
 ## [Register here](https://docs.google.com/forms/d/e/1FAIpQLSfdCtIKwWxv93wPbhta_dlyyLKoTFLuShdkNJiLArXEzJvIBg/viewform)
 - The session is open to **all genders**. Join us   though if you have ittle or no prior experience on tackling real-world data science problems.
 
