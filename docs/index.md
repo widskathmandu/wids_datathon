@@ -13,19 +13,18 @@ In this **three-hour** hands-on workshop you will learn :
 3. Building Predictive Models
 4. Walkthrough WiDS Datathon Kaggle Challenge
  
-<br><br>
-* Event : Virtual [via Zoom]
-*Date : Friday February 04, 2022 
+### Event Date and Time
+- Event : Virtual [via Zoom]
+- Date : Friday February 04, 2022 
 
-<br><br>
-* Nepal Time : 8:00 - 11:00 AM NPT
-* US Time : 9:15 PM EST | 8:15 PM CST | 6:15 PM PST
+- Nepal Time : 8:00 - 11:00 AM NPT
+- US Time : 9:15 PM EST | 8:15 PM CST | 6:15 PM PST
 
 <br>
 ## [Register here](https://docs.google.com/forms/d/e/1FAIpQLSfdCtIKwWxv93wPbhta_dlyyLKoTFLuShdkNJiLArXEzJvIBg/viewform)
-* The session is open to **all genders**. Join us eventhough if you have ittle or no prior experience on tackling real-world data science problems.
+- The session is open to **all genders**. Join us   though if you have ittle or no prior experience on tackling real-world data science problems.
 
-#### Note: Feel free to communicate with other participants and form a team to submit your solution to the WiDS data challenge in Kaggle. You can find a timeline to participate in global challenge [here](https://www.widsconference.org/datathon_details.html)
+#### - Feel free to communicate with other participants and form a team to submit your solution to the WiDS data challenge in Kaggle. You can find a timeline to participate in global challenge [here](https://www.widsconference.org/datathon_details.html)
 
 
 
