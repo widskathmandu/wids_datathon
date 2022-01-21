@@ -1,6 +1,6 @@
 # Welcome to WiDS Kathmandu Datathon Workshop 2022
 
-The **WiDS kathmandu Datathon Workshop 2022** is the first workshop organized by WiDS Ambassador 2022, Manisha Panta. 
+The **WiDS kathmandu Datathon Workshop 2022** is the first workshop organized by WiDS Ambassador 2022, [Manisha Panta](https://www.linkedin.com/in/manishapanta/). 
 The workshop is designed to support and guide local participants through the WiDS Datathon, hosted on Kaggle, January 6 - February 23rd. You can join the WiDS Datathon 2022 as an individual or with a team to tackle this data challenge competing with other teams from all over the world. More details [Here](https://www.widsconference.org/datathon.html) <br><br>
 
 ## What, When and How?
