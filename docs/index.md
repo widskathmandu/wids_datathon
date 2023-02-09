@@ -1,7 +1,7 @@
 # Welcome to WiDS Kathmandu Datathon Workshop 2023
 
 The **WiDS kathmandu Datathon Workshop 2023** is the second workshop organized by WiDS Ambassadors 2023, [Manisha Panta](https://www.linkedin.com/in/manishapanta/){:target="_blank"}, and [Reecha Khanal](https://www.linkedin.com/in/reecha-khanal/){:target="_blank"}. 
-The workshop is designed to support and guide local participants through the WiDS Datathon, hosted on Kaggle, February 25th (Nepali Time). You can join the WiDS Datathon 2023 as an individual or with a team to tackle this data challenge competing with other teams from all over the world. More details [Here](https://www.widsconference.org/datathon.html){:target="_blank"} <br><br>
+The workshop is designed to support and guide local participants through the WiDS Datathon, hosted on Kaggle, February 25th (Nepali Time). You can join the WiDS Datathon 2023 as an individual or with a team to tackle this data challenge competing with other teams from all over the world. More details [Here](https://www.widsconference.org/datathon.html){:target="_blank"} <br>
 
 WiDS Kathmandu is an independent event that is organized by [Manisha Panta](https://www.linkedin.com/in/manishapanta/){:target="_blank"}, and [Reecha Khanal](https://www.linkedin.com/in/reecha-khanal/){:target="_blank"} as part of the annual WiDS Worldwide conference, the WiDS Datathon, and an estimated 200 WiDS Regional Events worldwide.  Everyone is invited to attend all WiDS conference and WiDS Datathon Workshop events which feature outstanding women doing outstanding work.<br><br>
 
