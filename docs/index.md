@@ -30,7 +30,7 @@ The workshop is designed to support and guide local participants through the WiD
 
 -------------------------
 
-## Join the challenge:
+## Join the Challenge:
 
 Attention all aspiring data scientists! Join our beginner-friendly datathon and experience the thrill of competition. Don't be intimidated, this is a great opportunity to challenge yourself and have fun at the same time. Here are the rules to keep in mind:
 
