@@ -28,10 +28,10 @@ The workshop is designed to support and guide local participants through the WiD
 
 Attention all aspiring data scientists! Join our beginner-friendly datathon and experience the thrill of competition. Don't be intimidated, this is a great opportunity to challenge yourself and have fun at the same time. Here are the rules to keep in mind:
 
-50% of your team must be comprised of women.
-Teams must have no more than 4 members.
-All submissions must be open-source.
-You have until March 1st to submit your solution.
+1. 50% of your team must be comprised of women.
+2. Teams must have no more than 4 members.
+3. All submissions must be open-source.
+4. You have until March 1st to submit your solution.
 
 And the best part? The top three teams will receive a complimentary course on Udemy in data science to continue their learning journey. So, gather your team, put your skills to the test, and have fun competing! Sign up now and join the beginner-friendly data science adventure!
 
