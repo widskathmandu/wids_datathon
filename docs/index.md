@@ -3,7 +3,13 @@
 The **WiDS kathmandu Datathon Workshop 2023** is the first workshop organized by WiDS Ambassadors 2023, [Manisha Panta](https://www.linkedin.com/in/manishapanta/){:target="_blank"}, and [Reecha Khanal](https://www.linkedin.com/in/reecha-khanal/){:target="_blank"}. 
 The workshop is designed to support and guide local participants through the WiDS Datathon, hosted on Kaggle, February 25th (Nepali Time). You can join the WiDS Datathon 2023 as an individual or with a team to tackle this data challenge competing with other teams from all over the world. More details [Here](https://www.widsconference.org/datathon.html){:target="_blank"} <br><br>
 
-|
+
+## Event Date and Time
+- Event : Virtual [via Zoom]
+- Date : **Friday February 24, 2023** 
+- US Time : **9:15 PM EST or 6:15 PM PST**
+- Nepali Date and Time for the same event: **Saturday February 25, 8:00 - 11:00 AM NPT**
+
 
 ## Agenda [In Nepali Time]
 * 8:00 - 8:25 AM: WiDS Datathon Challenge Introduction  & Icebreaker
@@ -13,14 +19,6 @@ The workshop is designed to support and guide local participants through the WiD
 * 9:30 - 10:15 AM: Hands-on Exercise on Basic Solution
 * 10:15  - 10:45 AM: Networking and Team Formation
 * 10:45 - 11:00 AM: Closing Remarks 
-
-|
-
-### Event Date and Time
-- Event : Virtual [via Zoom]
-- Date : **Friday February 24, 2023** 
-- US Time : **9:15 PM EST or 6:15 PM PST**
-- Nepali Date and Time for the same event: **Saturday February 25, 8:00 - 11:00 AM NPT**
 
 -------------------------
 
