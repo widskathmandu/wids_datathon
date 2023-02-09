@@ -4,14 +4,13 @@ The **WiDS kathmandu Datathon Workshop 2023** is the first workshop organized by
 The workshop is designed to support and guide local participants through the WiDS Datathon, hosted on Kaggle, February 25th (Nepali Time). You can join the WiDS Datathon 2023 as an individual or with a team to tackle this data challenge competing with other teams from all over the world. More details [Here](https://www.widsconference.org/datathon.html){:target="_blank"} <br><br>
 
 ## Agenda [In Nepali Time]
-8:00 - 8:25 AM: WiDS Datathon Challenge Introduction  & Icebreaker
-8:25 - 8:45 AM: Overview of data science & machine learning concept
-8:45 - 9:15 AM: Exploratory Data Analysis
-9:15 - 9:30 AM: Break | Networking
-9:30 - 10:15 AM: Hands-on Exercise on Basic Solution
-10:15  - 10:45 AM: Networking and Team Formation
-10:45 - 11:00 AM: Closing Remarks 
-
+* 8:00 - 8:25 AM: WiDS Datathon Challenge Introduction  & Icebreaker
+* 8:25 - 8:45 AM: Overview of data science & machine learning concept
+* 8:45 - 9:15 AM: Exploratory Data Analysis
+* 9:15 - 9:30 AM: Break | Networking
+* 9:30 - 10:15 AM: Hands-on Exercise on Basic Solution
+* 10:15  - 10:45 AM: Networking and Team Formation
+* 10:45 - 11:00 AM: Closing Remarks 
  
 ### Event Date and Time
 - Event : Virtual [via Zoom]
@@ -19,19 +18,19 @@ The workshop is designed to support and guide local participants through the WiD
 - US Time : **9:15 PM EST or 6:15 PM PST**
 - Nepali Date and Time for the same event: **Saturday February 25, 8:00 - 11:00 AM NPT**
 
-## [Click here to Register](https://docs.google.com/forms/d/e/1FAIpQLSfdCtIKwWxv93wPbhta_dlyyLKoTFLuShdkNJiLArXEzJvIBg/viewform){:target="_blank"}
+## [Click here to Register](https://docs.google.com/forms/d/e/1FAIpQLSd_XJfHOj-wVi7CQDd_HQZWxf-xydZ2mcnjGh8TSKN6KQWCLw/viewform){:target="_blank"}
 - Session is open to **all genders**. 
 - No prior experience needed.
 - Zoom link will be send to email of registered participants from widskathmandu@gmail.com one day prior the event. 
 
-## Data challenge this year
+## Join the challenge:
 
 Attention all aspiring data scientists! Join our beginner-friendly datathon and experience the thrill of competition. Don't be intimidated, this is a great opportunity to challenge yourself and have fun at the same time. Here are the rules to keep in mind:
 
-1. 50% of your team must be comprised of women.
-2. Teams must have no more than 4 members.
-3. All submissions must be open-source.
-4. You have until March 1st to submit your solution.
+1. Team size from 1 up to 4 people; at least half of each team must be individuals who identify as women.
+2. Must be registered for [WiDS Datathon Challenge](https://airtable.com/shrSmOC8mMDjc4dFl){:target="_blank"}.
+3. All submissions must be open-sourced [GitHub preferably].
+4. Final Submission Deadline - March 1 [Details](https://www.kaggle.com/competitions/widsdatathon2023/overview){:target="_blank"}.
 
 And the best part? The top three teams will receive a complimentary course on Udemy in data science to continue their learning journey. So, gather your team, put your skills to the test, and have fun competing! Sign up now and join the beginner-friendly data science adventure!
 
