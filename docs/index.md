@@ -23,10 +23,10 @@ The workshop is designed to support and guide local participants through the WiD
 
 -------------------------
 
-## [Click here to Register](https://docs.google.com/forms/d/e/1FAIpQLSd_XJfHOj-wVi7CQDd_HQZWxf-xydZ2mcnjGh8TSKN6KQWCLw/viewform){:target="_blank"}
+## [Click Here to Register](https://docs.google.com/forms/d/e/1FAIpQLSd_XJfHOj-wVi7CQDd_HQZWxf-xydZ2mcnjGh8TSKN6KQWCLw/viewform){:target="_blank"}
 - Session is open to **all genders**. 
 - No prior experience needed.
-- Zoom link will be send to email of registered participants from widskathmandu@gmail.com one day prior the event. 
+- Zoom link will be sent to the email of registered participants from widskathmandu@gmail.com one day prior to the event. 
 
 -------------------------
 
