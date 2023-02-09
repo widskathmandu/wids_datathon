@@ -3,12 +3,14 @@
 The **WiDS kathmandu Datathon Workshop 2023** is the first workshop organized by WiDS Ambassadors 2023, [Manisha Panta](https://www.linkedin.com/in/manishapanta/){:target="_blank"}, and [Reecha Khanal](https://www.linkedin.com/in/reecha-khanal/){:target="_blank"}. 
 The workshop is designed to support and guide local participants through the WiDS Datathon, hosted on Kaggle, February 25th (Nepali Time). You can join the WiDS Datathon 2023 as an individual or with a team to tackle this data challenge competing with other teams from all over the world. More details [Here](https://www.widsconference.org/datathon.html){:target="_blank"} <br><br>
 
-## What, When and How?
-In this **three-hours** hands-on workshop you will learn : 
-1. Exploring and Understanding data
-2. Pre-processing and Cleaning data
-3. Building Predictive Models
-4. Walkthrough WiDS Datathon Kaggle Challenge
+## Agenda [In Nepali Time]
+8:00 - 8:25 AM: WiDS Datathon Challenge Introduction  & Icebreaker
+8:25 - 8:45 AM: Overview of data science & machine learning concept
+8:45 - 9:15 AM: Exploratory Data Analysis
+9:15 - 9:30 AM: Break | Networking
+9:30 - 10:15 AM: Hands-on Exercise on Basic Solution
+10:15  - 10:45 AM: Networking and Team Formation
+10:45 - 11:00 AM: Closing Remarks 
 
  
 ### Event Date and Time
@@ -23,7 +25,15 @@ In this **three-hours** hands-on workshop you will learn :
 - Zoom link will be send to email of registered participants from widskathmandu@gmail.com one day prior the event. 
 
 ## Data challenge this year
-This year’s Datathon focuses on utilizing data science to better prepare and adapt to the challenges caused by climate change and extreme weather events. The WiDS Datathon dataset was created in collaboration with Climate Change AI (CCAI) and Lawrence Berkeley National Laboratory (Berkeley Lab). WiDS Datathon participants will analyze differences in building energy efficiency, creating models to predict building energy consumption. Participants will use a dataset consisting of variables that describe building characteristics and climate and weather variables for the regions in which the buildings are located. Accurate predictions of energy consumption can help policymakers target retrofitting efforts to maximize emissions reductions. 
+
+Attention all aspiring data scientists! Join our beginner-friendly datathon and experience the thrill of competition. Don't be intimidated, this is a great opportunity to challenge yourself and have fun at the same time. Here are the rules to keep in mind:
+
+50% of your team must be comprised of women.
+Teams must have no more than 4 members.
+All submissions must be open-source.
+You have until March 1st to submit your solution.
+
+And the best part? The top three teams will receive a complimentary course on Udemy in data science to continue their learning journey. So, gather your team, put your skills to the test, and have fun competing! Sign up now and join the beginner-friendly data science adventure!
 
 #### You can find a timeline to participate in global challenge [here](https://www.widsconference.org/datathon_details.html){:target="_blank"}
 
